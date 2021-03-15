@@ -4,3 +4,5 @@ line 3
 
 add a
 add b
+add c
+add d
